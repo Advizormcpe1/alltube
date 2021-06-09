@@ -69,7 +69,7 @@ msgstr "その他の形式"
 
 #: templates/info.tpl:86
 msgid "Stream the video through the server"
-msgstr "ビデオをサーバーに設置してダウンロード"
+msgstr "サーバー上にビデオをプロキシさせてダウンロード"
 
 #: templates/info.tpl:92
 msgid "Convert into a custom format:"
@@ -134,7 +134,7 @@ msgstr "閲覧用パスワード"
 
 #: templates/index.tpl:8
 msgid "Copy here the URL of your video (YouTube, Dailymotion, etc.)"
-msgstr "動画のリンク(URL)を入力欄に入力してください。(例:Youtube,Dailymotion等。)"
+msgstr "動画のリンク(例:Youtube,Dailymotion等のURL)を入力欄に入力してください。"
 
 #: templates/index.tpl:25
 msgid "Audio only (MP3)"
@@ -154,7 +154,7 @@ msgstr "ダウンロード可能なサイトを見る"
 
 #: templates/index.tpl:43
 msgid "Drag this to your bookmarks bar:"
-msgstr "ブックマークバーにドラッグして登録"
+msgstr "ドラッグしてブックマークバーに登録"
 
 #: templates/index.tpl:45
 msgid "Bookmarklet"
