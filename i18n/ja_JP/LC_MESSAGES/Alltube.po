@@ -13,11 +13,11 @@ msgstr "作成: @dev"
 
 #: templates/inc/footer.tpl:16
 msgid "Design by @designer"
-msgstr "デザイン: @designer"
+msgstr "Webデザイン: @designer"
 
 #: templates/inc/footer.tpl:21
 msgid "Get the code"
-msgstr "プログラムをダウンロード"
+msgstr "ソフトウェアをダウンロード"
 
 #: templates/inc/footer.tpl:29
 msgid "Based on @youtubedl"
@@ -41,7 +41,7 @@ msgstr "言語を設定"
 
 #: templates/info.tpl:11
 msgid "You are going to download @title."
-msgstr "ダウンロード対象: @title"
+msgstr "検出した動画「@title」"
 
 #: templates/info.tpl:29
 msgid "Available formats:"
@@ -126,7 +126,7 @@ msgstr "このビデオにはプロテクトがかかっています。"
 
 #: templates/password.tpl:6
 msgid "You need a password in order to download this video."
-msgstr "このビデオをダウンロードするには閲覧用のパスワードが必要です。"
+msgstr "このビデオをダウンロードするには、閲覧用のパスワードが必要です。"
 
 #: templates/password.tpl:8
 msgid "Video password"
@@ -134,7 +134,7 @@ msgstr "閲覧用パスワード"
 
 #: templates/index.tpl:8
 msgid "Copy here the URL of your video (YouTube, Dailymotion, etc.)"
-msgstr "動画のリンク(URL)を入力欄に入力してください。(例:Youtube,Dailymotion等。)"
+msgstr "動画のリンク(例:Youtube,Dailymotion等のURL)を入力欄に入力してください。"
 
 #: templates/index.tpl:25
 msgid "Audio only (MP3)"
@@ -150,7 +150,7 @@ msgstr "へ"
 
 #: templates/index.tpl:41
 msgid "See all supported websites"
-msgstr "ダウンロード可能なサイトを見る"
+msgstr "ダウンロード可能なサイトの一覧を見る"
 
 #: templates/index.tpl:43
 msgid "Drag this to your bookmarks bar:"
@@ -167,19 +167,19 @@ msgstr "パスワードが間違っています。"
 
 #: classes/Controller/DownloadController.php:69
 msgid "Conversion of playlists is not supported."
-msgstr "プレイリストからの読み出しには対応しておりません。"
+msgstr "プレイリストからの読み込みには対応しておりません。"
 
 #: classes/Controller/DownloadController.php:76
 msgid "Conversion of M3U8 files is not supported."
-msgstr "HLS(m3u8)プレイリストファイルからの読み出しには対応しておりません。"
+msgstr "HLS(m3u8)プレイリストファイルからの読み込みには対応しておりません。"
 
 #: classes/Controller/DownloadController.php:82
 msgid "Conversion of DASH segments is not supported."
-msgstr "MPEG DASHストリーミングからの読み出しには対応しておりません。"
+msgstr "MPEG DASHストリーミングからの読み込みには対応しておりません。"
 
 #: classes/Controller/FrontController.php:65
 msgid "Easily download videos from YouTube, Dailymotion, Vimeo and other websites."
-msgstr "Youtubeから動画を簡単にダウンロード!、DailymotionやVimeo等にも対応しております"
+msgstr "Youtubeから動画を簡単にダウンロード!、DailymotionやVimeo等にも対応しております。"
 
 #: classes/Controller/FrontController.php:112
 msgid "List of all supported websites from which AllTube Download can extract video or audio files"
